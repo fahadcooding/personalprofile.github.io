@@ -475,6 +475,10 @@ nav .fa-bars
         display: block;
         font-size: 25px;
     }
+    nav
+    {
+        margin-left: 20px;
+    }
     nav ul
     {
         background: #ff004f;
@@ -486,6 +490,7 @@ nav .fa-bars
         padding-top: 50px;
         z-index: 2;
         transition: right 0.5s;
+      
 
     }
     nav ul li 
